@@ -1,6 +1,6 @@
 {
   "name": "rag-pipeline-exercise-2025 (py310)",
-  "image": "mcr.microsoft.com/devcontainers/python:1-3.10-bullseye",
+  "image": "mcr.microsoft.com/devcontainers/python:1-3.11-bullseye",
   "features": {
     "ghcr.io/devcontainers/features/git-lfs:1": {}
   },
